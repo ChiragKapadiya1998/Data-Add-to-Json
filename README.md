@@ -4,5 +4,4 @@ foldar
 2)npm install json-server ngrok
 3)npm run db
 
-2)
-mac@macs-iMac-3 jsonserver % npm run tunnel
+2)mac@macs-iMac-3 jsonserver % npm run tunnel
